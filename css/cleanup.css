@@ -1,1 +1,31 @@
-/* write your override styles here */
+/* cleanup overrides */
+
+body {
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+img {
+  border: 4px solid black;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+button {
+  padding: 10px;
+  background-color: green;
+  color: white;
+}/* write your override styles here */
